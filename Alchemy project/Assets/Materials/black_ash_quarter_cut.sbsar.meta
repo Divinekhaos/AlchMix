@@ -1,7 +1,28 @@
 fileFormatVersion: 2
 guid: 1b4cc143e9ca4e74b89d45a2f28db786
 ScriptedImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      21: 2100000
+    second: Black Ash Quarter Cut
+  - first:
+      28: 2800000
+    second: Black Ash Quarter Cut - baseColor
+  - first:
+      28: 2800002
+    second: Black Ash Quarter Cut - normal
+  - first:
+      28: 2800004
+    second: Black Ash Quarter Cut - metallic
+  - first:
+      28: 2800006
+    second: Black Ash Quarter Cut - height
+  - first:
+      114: 11400000
+    second: sbsar
+  - first:
+      114: 11400002
+    second: graph0
   externalObjects: {}
   serializedVersion: 2
   userData: 
@@ -32,8 +53,7 @@ ScriptedImporter:
       lightmapFlags: 4
       texEnvs:
       - name: _BumpMap
-        texture: {fileID: 6591069409958996976, guid: 1b4cc143e9ca4e74b89d45a2f28db786,
-          type: 3}
+        texture: {fileID: 2800002, guid: 1b4cc143e9ca4e74b89d45a2f28db786, type: 3}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _DetailAlbedoMap
@@ -53,13 +73,11 @@ ScriptedImporter:
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _MainTex
-        texture: {fileID: -3237087108589207379, guid: 1b4cc143e9ca4e74b89d45a2f28db786,
-          type: 3}
+        texture: {fileID: 2800000, guid: 1b4cc143e9ca4e74b89d45a2f28db786, type: 3}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _MetallicGlossMap
-        texture: {fileID: -5394902289786427570, guid: 1b4cc143e9ca4e74b89d45a2f28db786,
-          type: 3}
+        texture: {fileID: 2800004, guid: 1b4cc143e9ca4e74b89d45a2f28db786, type: 3}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _OcclusionMap
@@ -67,8 +85,7 @@ ScriptedImporter:
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       - name: _ParallaxMap
-        texture: {fileID: 4219907833079355451, guid: 1b4cc143e9ca4e74b89d45a2f28db786,
-          type: 3}
+        texture: {fileID: 2800006, guid: 1b4cc143e9ca4e74b89d45a2f28db786, type: 3}
         scale: {x: 1, y: 1}
         offset: {x: 0, y: 0}
       floats:
@@ -285,10 +302,9 @@ ScriptedImporter:
       textureFormatMode: 0
       normalCompressed: 0
       bGenerateOnLoad: 1
-    material: {fileID: 2727212259314348923, guid: 1b4cc143e9ca4e74b89d45a2f28db786,
-      type: 3}
+    material: {fileID: 2100000, guid: 1b4cc143e9ca4e74b89d45a2f28db786, type: 3}
     generatedTextures:
-    - {fileID: -3237087108589207379, guid: 1b4cc143e9ca4e74b89d45a2f28db786, type: 3}
-    - {fileID: 6591069409958996976, guid: 1b4cc143e9ca4e74b89d45a2f28db786, type: 3}
-    - {fileID: -5394902289786427570, guid: 1b4cc143e9ca4e74b89d45a2f28db786, type: 3}
-    - {fileID: 4219907833079355451, guid: 1b4cc143e9ca4e74b89d45a2f28db786, type: 3}
+    - {fileID: 2800000, guid: 1b4cc143e9ca4e74b89d45a2f28db786, type: 3}
+    - {fileID: 2800002, guid: 1b4cc143e9ca4e74b89d45a2f28db786, type: 3}
+    - {fileID: 2800004, guid: 1b4cc143e9ca4e74b89d45a2f28db786, type: 3}
+    - {fileID: 2800006, guid: 1b4cc143e9ca4e74b89d45a2f28db786, type: 3}

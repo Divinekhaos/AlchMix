@@ -1,0 +1,278 @@
+fileFormatVersion: 2
+guid: 05f87a00b2b7945409e927c7c3ac098d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cabinet_group1
+    100004: cabinet_pCube11
+    100006: cabinet_pCube12
+    100008: cabinet_pCube13
+    100010: cabinet_pCube15
+    100012: cabinet_pCube16
+    100014: group2
+    100016: horn:pCylinder3
+    100018: pCube10
+    100020: pCube14
+    100022: pCube17
+    100024: pCube17 1
+    100026: pCube18
+    100028: pCube18 1
+    100030: pCube19
+    100032: pCube19 1
+    100034: pCube20
+    100036: pCube20 1
+    100038: pCube9
+    100040: pCylinder1
+    100042: pCylinder2
+    100044: pCylinder7
+    100046: polySurface15
+    100048: polySurface16
+    100050: polySurface17
+    100052: polySurface18
+    100054: polySurface19
+    100056: polySurface20
+    100058: polySurface21
+    100060: polySurface22
+    100062: polySurface23
+    100064: polySurface25
+    100066: polySurface26
+    100068: polySurface27
+    100070: pSphere1
+    100072: pSphere2
+    100074: pSphere2 1
+    100076: SKULL_UV_3:polySurface1
+    400000: //RootNode
+    400002: cabinet_group1
+    400004: cabinet_pCube11
+    400006: cabinet_pCube12
+    400008: cabinet_pCube13
+    400010: cabinet_pCube15
+    400012: cabinet_pCube16
+    400014: group2
+    400016: horn:pCylinder3
+    400018: pCube10
+    400020: pCube14
+    400022: pCube17
+    400024: pCube17 1
+    400026: pCube18
+    400028: pCube18 1
+    400030: pCube19
+    400032: pCube19 1
+    400034: pCube20
+    400036: pCube20 1
+    400038: pCube9
+    400040: pCylinder1
+    400042: pCylinder2
+    400044: pCylinder7
+    400046: polySurface15
+    400048: polySurface16
+    400050: polySurface17
+    400052: polySurface18
+    400054: polySurface19
+    400056: polySurface20
+    400058: polySurface21
+    400060: polySurface22
+    400062: polySurface23
+    400064: polySurface25
+    400066: polySurface26
+    400068: polySurface27
+    400070: pSphere1
+    400072: pSphere2
+    400074: pSphere2 1
+    400076: SKULL_UV_3:polySurface1
+    2100000: lambert1
+    2100002: cabinet_phong1
+    2100004: cabinet_phong2
+    2100006: horn_initialShadingGroup1
+    2300000: cabinet_pCube11
+    2300002: cabinet_pCube12
+    2300004: cabinet_pCube13
+    2300006: cabinet_pCube15
+    2300008: cabinet_pCube16
+    2300010: horn:pCylinder3
+    2300012: pCube10
+    2300014: pCube14
+    2300016: pCube17
+    2300018: pCube17 1
+    2300020: pCube18
+    2300022: pCube18 1
+    2300024: pCube19
+    2300026: pCube19 1
+    2300028: pCube20
+    2300030: pCube20 1
+    2300032: pCylinder1
+    2300034: pCylinder2
+    2300036: pCylinder7
+    2300038: polySurface15
+    2300040: polySurface16
+    2300042: polySurface17
+    2300044: polySurface18
+    2300046: polySurface19
+    2300048: polySurface20
+    2300050: polySurface21
+    2300052: polySurface22
+    2300054: polySurface23
+    2300056: polySurface25
+    2300058: polySurface26
+    2300060: polySurface27
+    2300062: pSphere1
+    2300064: pSphere2
+    2300066: pSphere2 1
+    2300068: SKULL_UV_3:polySurface1
+    3300000: cabinet_pCube11
+    3300002: cabinet_pCube12
+    3300004: cabinet_pCube13
+    3300006: cabinet_pCube15
+    3300008: cabinet_pCube16
+    3300010: horn:pCylinder3
+    3300012: pCube10
+    3300014: pCube14
+    3300016: pCube17
+    3300018: pCube17 1
+    3300020: pCube18
+    3300022: pCube18 1
+    3300024: pCube19
+    3300026: pCube19 1
+    3300028: pCube20
+    3300030: pCube20 1
+    3300032: pCylinder1
+    3300034: pCylinder2
+    3300036: pCylinder7
+    3300038: polySurface15
+    3300040: polySurface16
+    3300042: polySurface17
+    3300044: polySurface18
+    3300046: polySurface19
+    3300048: polySurface20
+    3300050: polySurface21
+    3300052: polySurface22
+    3300054: polySurface23
+    3300056: polySurface25
+    3300058: polySurface26
+    3300060: polySurface27
+    3300062: pSphere1
+    3300064: pSphere2
+    3300066: pSphere2 1
+    3300068: SKULL_UV_3:polySurface1
+    4300000: polySurface15
+    4300002: polySurface16
+    4300004: polySurface17
+    4300006: polySurface18
+    4300008: polySurface19
+    4300010: polySurface20
+    4300012: polySurface21
+    4300014: polySurface22
+    4300016: polySurface23
+    4300018: polySurface25
+    4300020: polySurface26
+    4300022: polySurface27
+    4300024: pCylinder1
+    4300026: pCube10
+    4300028: cabinet_pCube11
+    4300030: cabinet_pCube12
+    4300032: cabinet_pCube13
+    4300034: pCube14
+    4300036: cabinet_pCube15
+    4300038: cabinet_pCube16
+    4300040: pSphere1
+    4300042: pSphere2
+    4300044: pCube20
+    4300046: pCube18
+    4300048: pCube17
+    4300050: pCube19
+    4300052: pSphere2
+    4300054: pCube20
+    4300056: pCube18
+    4300058: pCube17
+    4300060: pCube19
+    4300062: pCylinder2
+    4300064: horn:pCylinder3
+    4300066: pCylinder7
+    4300068: SKULL_UV_3:polySurface1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
